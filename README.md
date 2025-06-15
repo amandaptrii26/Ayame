@@ -14,7 +14,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Jetpack%20Compose-%23FFB6C1?style=for-the-badge&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-Auth-%23FF69B4?style=for-the-badge&logo=firebase&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenWeatherMap-API-%23FFC0CB?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Language-Kotlin-%23FF1493?style=for-the-badge&logo=kotlin&logoColor=white" />
 </p>
 
