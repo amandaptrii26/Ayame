@@ -58,7 +58,7 @@ Aplikasi film dan sensor getar dengan desain sederhana, responsif, dan modern.
   <img src="home.jpg" width="300" alt="Menu Utama"/>
   <img src="konten.jpg" width="300" alt="Menu Konten"/>
   <img src="favorite.jpg" width="300" alt="Menu Favorit"/>
-  <img src="pengaturan.jpg width="300" alt="Menu Pengaturan"/>
+  <img src="pengaturan.jpg" width="300" alt="Menu Pengaturan"/>
 </p>
 
 ---
