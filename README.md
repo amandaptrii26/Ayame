@@ -2,7 +2,7 @@
 
 <img src="https://emojicombos.com/images/pink-anime-cloud.gif" width="120" alt="AyameMaru"/>
 
-<h1 style="color:#FF69B4;">🎀 AyameMaru 🎀</h1>
+<h1 style="color:#FF69B4;">🌸 AyameMaru 🌸 </h1>
 
 <p><strong>Aplikasi Movie & Sensor Android</strong></p>
 <p><em>Desain elegan, modern, dan penuh pesona pink 💕</em></p>
