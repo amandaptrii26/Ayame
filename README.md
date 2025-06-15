@@ -59,7 +59,6 @@
 - 🔐 **Firebase Auth** – Login cepat dan aman
 - 📳 **SensorManager & Vibrator** – Deteksi gerakan & getar
 - 🔔 **Android Notification** – Kirim notifikasi otomatis
-- ☁️ **OpenWeatherMap API** *(opsional)*
 
 ---
 
