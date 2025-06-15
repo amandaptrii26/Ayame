@@ -53,15 +53,17 @@ Aplikasi film dan sensor getar dengan desain sederhana, responsif, dan modern.
 > Berikut adalah tampilan dari aplikasi AyameMaru :
 
 <p align="center">
-  <img src="screenshots/" width="300" alt="Home Screenshot"/>
-  <img src="screenshots/konten.png" width="300" alt="Konten Screenshot"/>
-  <img src="screenshots/settings.png" width="300" alt="Settings Screenshot"/>
+  <img src="login.jpg" width="300" alt="Menu Login"/>
+  <img src="akungoogle.jpg" width="300" alt="Menu Akun"/>
+  <img src="home.jpg" width="300" alt="Menu Utama"/>
+  <img src="konten.jpg" width="300" alt="Menu Konten"/>
+  <img src="favorite.jpg" width="300" alt="Menu Favorit"/>
+  <img src="pengaturan.jpg width="300" alt="Menu Pengaturan"/>
 </p>
 
 ---
 
 ## 🛠 Teknologi yang Digunakan
-
 - Android Studio (Kotlin)
 - Firebase Authentication
 - Sensor & Getar
