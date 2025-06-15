@@ -1,72 +1,72 @@
 <div align="center">
 
-# 🌸 AyameMaru – Movie & Sensor App
+<h1 style="color:pink;">🌸 AyameMaru – Movie & Sensor App 🌸</h1>
 
-Aplikasi film dan sensor getar dengan desain sederhana, responsif, dan modern.
+<p><i>Aplikasi film dan sensor getar dengan desain <b>sederhana</b>, <b>responsif</b>, dan <b>modern</b>.</i></p>
 
 </div>
 
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-%231DA1F2.svg?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-Authentication-yellow?style=for-the-badge&logo=firebase&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenWeatherMap-API-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Language-Kotlin-purple?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-FFC0CB?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFC0CB?style=for-the-badge&logo=firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenWeatherMap-FFC0CB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Language-Kotlin-FF69B4?style=for-the-badge&logo=kotlin&logoColor=white" />
 </p>
 
 ---
 
 ## 🧾 Tentang AyameMaru
 
-**AyameMaru** adalah aplikasi Android yang dirancang untuk menampilkan daftar film pengguna dengan fitur tambahan seperti sensor getar dan notifikasi. Aplikasi ini memiliki fitur login, mode gelap/terang, halaman pengaturan, dan sistem logout yang efisien. Dibuat menggunakan Android Studio, aplikasi ini cocok digunakan sebagai bahan pembelajaran maupun demonstrasi pengembangan aplikasi mobile.
+🌸 **AyameMaru** adalah aplikasi Android yang dirancang untuk menampilkan daftar film pengguna dengan fitur tambahan seperti sensor getar dan notifikasi.
+
+✨ Fitur login, mode gelap/terang, halaman pengaturan, dan logout.
+
+🎀 Dibuat menggunakan Android Studio. Cocok untuk pembelajaran maupun demo.
 
 ---
 
 ## 🌟 Fitur Unggulan
 
 ### 🔐 Autentikasi
-- Login menggunakan **Google Sign-In** atau secara manual dengan **email dan password**.
+- Login via **Google Sign-In** atau **Email & Password**.
 
 ### 🏠 Halaman Utama (Home)
-- Terdapat tombol **"Aktifkan Sensor"**.
-- Ketika ditekan, perangkat akan **bergetar**.
-- Muncul **notifikasi** dari fitur sensor.
+- Tombol **"Aktifkan Sensor"** ➜ Getar + Notifikasi.
 - Menggunakan **SensorManager dan Vibrator** Android.
 
 ### 🎬 Konten Film
-- Menampilkan daftar judul film yang bisa dilihat oleh pengguna.
+- Menampilkan daftar film 🎥.
 
 ### ⭐ Halaman Favorit
-- Halaman ini berisi tampilan daftar favorit (placeholder).
+- Tampilan daftar favorit (placeholder) 💖.
 
 ### ⚙️ Pengaturan
-- Pengaturan **mode terang/gelap**.
-- Pilihan **bahasa**, informasi aplikasi, dan tombol **rate up**.
+- Mode **terang/gelap**, pilihan **bahasa**, info app, dan tombol **rate**.
 
 ### 🚪 Logout
-- Terdapat tombol Logout untuk kembali ke halaman login.
+- Tombol logout ➜ kembali ke halaman login.
 
 ---
 
-## 📷 Screenshot
-
-> Berikut adalah tampilan dari aplikasi AyameMaru :
+## 📷 Screenshot Aplikasi
 
 <p align="center">
-  <img src="login.jpg" width="300" alt="Menu Login"/>
-  <img src="akungoogle.jpg" width="300" alt="Menu Akun"/>
-  <img src="home.jpg" width="300" alt="Menu Utama"/>
-  <img src="konten.jpg" width="300" alt="Menu Konten"/>
-  <img src="favorite.jpg" width="300" alt="Menu Favorit"/>
-  <img src="pengaturan.jpg" width="300" alt="Menu Pengaturan"/>
+  <img src="login.jpg" width="300" alt="Login"/>
+  <img src="akungoogle.jpg" width="300" alt="Akun Google"/>
+  <img src="home.jpg" width="300" alt="Home"/>
+  <img src="konten.jpg" width="300" alt="Konten"/>
+  <img src="favorite.jpg" width="300" alt="Favorit"/>
+  <img src="pengaturan.jpg" width="300" alt="Pengaturan"/>
 </p>
 
 ---
 
 ## 🛠 Teknologi yang Digunakan
-- Android Studio (Kotlin)
-- Firebase Authentication
-- Sensor & Getar
-- Notification 
+- 🌷 Android Studio (Kotlin)
+- 🌸 Firebase Authentication
+- 💓 Sensor & Getar
+- 🛎️ Notifikasi
 
-> AyameMaru dikembangkan sebagai bagian dari pembelajaran membangun aplikasi Android modern.
+---
+
+> 💗 *AyameMaru dikembangkan sebagai bagian dari pembelajaran membangun aplikasi Android modern.*
